@@ -1,0 +1,10 @@
+html,body,#viz{
+	width: 100%;
+	height: 100%;
+	padding: 0px;
+	margin: 0px;
+}
+#viz{
+	position: relative;
+	z-index: 100;
+}
